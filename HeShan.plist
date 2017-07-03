@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   HeShan.plist
+   AreaPlistFile
+
+   Created by ZMMacBook on 2017/3/9.
+   Copyright (c) 2017年 ZMMacBook. All rights reserved.
+ 
+   鹤山市
+-->
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://218.14.157.189:8097/mo/IOSapp.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.zhengmeng.teck</string>
+                    <key>bundle-version</key>
+                    <string>2.3.4</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>鹤山市移动办公</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
